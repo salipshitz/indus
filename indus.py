@@ -44,4 +44,7 @@ def updateScr(key):
     currX += 1
 
 def main():
-main()
+    pass
+
+if __name__ == '__main__':
+    main()
